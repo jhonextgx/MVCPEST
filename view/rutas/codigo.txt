@@ -1,0 +1,10 @@
+<!-- <button rel="<?php echo 'editar_usuario.php?codigo='.$r->email; ?>" type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal" >Editar</button> - <a class="btn btn-default" role="button" id="<?php echo $r->id; ?>" href="<?php echo 'paq_user.php?codigo='.$row["codigo"]; ?>">Paquetes</a>-->
+
+
+
+         <!--<option <?php echo $alm->cf_unity == 1 ? 'selected' : ''; ?> value="1">CONFIRM</option>
+                <option <?php echo $alm->cf_unity == 2 ? 'selected' : ''; ?> value="2">CANCELLED</option>
+                <option <?php echo $alm->cf_unity == 3 ? 'selected' : ''; ?> value="2">NO ANSWER</option>
+                <option <?php echo $alm->cf_unity == 4 ? 'selected' : ''; ?> value="2">PENDING</option>
+                <option <?php echo $alm->cf_unity == 5 ? 'selected' : ''; ?> value="2">RESHEDULED</option>-->
+                
